@@ -66,3 +66,4 @@ C:\API (epiay)\API_first_Task\API_first_Task\obj\Debug\net6.0\refint\API_first_T
 C:\API (epiay)\API_first_Task\API_first_Task\obj\Debug\net6.0\API_first_Task.pdb
 C:\API (epiay)\API_first_Task\API_first_Task\obj\Debug\net6.0\API_first_Task.genruntimeconfig.cache
 C:\API (epiay)\API_first_Task\API_first_Task\obj\Debug\net6.0\ref\API_first_Task.dll
+C:\API (epiay)\API_first_Task\API_first_Task\obj\Debug\net6.0\API_first_Task.sourcelink.json

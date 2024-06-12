@@ -10,39 +10,5 @@ namespace API_first_Task.Data
         public DbSet<Category> Categories { get; set; }
         public DbSet<Book> Books { get; set; }
 
-        //protected override void OnModelCreating(ModelBuilder modelBuilder)
-        //{
-        //    modelBuilder.Entity<Category>().HasData(
-        //         new Category
-        //         {
-        //             Id = 1,
-        //             CreatedDate = DateTime.Now,
-        //             Name = "UI UX",
-        //         },
-
-        //          new Category
-        //          {
-        //              Id = 2,
-        //              CreatedDate = DateTime.Now,
-        //              Name = "Backend Development",
-
-        //          },
-
-        //          new Category
-        //          {
-        //              Id = 3,
-        //              CreatedDate = DateTime.Now,
-        //              Name = "Frontend",
-        //          });
-
-
-
-
-
-
-            
-
-        //}
-
     }
 }
